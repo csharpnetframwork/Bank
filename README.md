@@ -14,17 +14,14 @@ This console application is developed using C# and incorporates features like us
 
 - **Payment Options:**
   - Multiple payment methods including UPI and bank transfer.
-  - Integration with payment processing APIs for seamless transactions.
+  
 
 - **Additional Functionality:**
   - Customer management: View and edit customer information.
-  - Employee management: View and edit employee details.
-  - Product/service management: Add, update, or delete products/services.
-  - Order management: Place orders and view order history.
-  - Reporting and analytics: Generate reports on sales and customer trends.
-
+  - Employee management: View and edit employee details
+  - See Bank policy
+  - Empolyee can update Policy
 ## Getting Started
-
 1. **Clone the Repository:**
    ```
    git clone https://github.com/yourusername/your-repo.git
