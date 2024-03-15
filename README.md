@@ -28,10 +28,17 @@ This console application is developed using C# and incorporates features like us
    ```
 
 2. **Database Setup:**
-   - Set up the SQL Server database using the provided scripts or migrations.
+  Database Setup:
+
+- Make sure you have SQL Server installed and running.
+- Open the solution in Visual Studio or your preferred IDE.
+- Run the following Entity Framework Core migration command to create and apply migrations:
+- dotnet ef database update
 
 3. **Build and Run:**
    - Build the console application and run it on your local machine.
+   - dotnet build
+   - dotnet run
 
 ## Contributing
 
