@@ -24,7 +24,7 @@ This console application is developed using C# and incorporates features like us
 ## Getting Started
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone [https://github.com/yourusername/your-repo.git](https://github.com/csharpnetframwork/Bank.git)
    ```
 
 2. **Database Setup:**
